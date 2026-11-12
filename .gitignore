@@ -1,0 +1,9 @@
+# Pythonin luomat väliaikaiset tiedostot
+__pycache__/
+*.py[cod]
+
+# Paikallinen tietokanta ja sen SQLite-aputiedostot
+notes.db
+notes.db-journal
+notes.db-wal
+notes.db-shm
