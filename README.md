@@ -5,6 +5,8 @@ Pieni Tkinter-sovellus, jolla voi lisätä ja katsella SQLite-tietokantaan talle
 ## Asennus ja käynnistys Windowsissa
 
 Python 3 on asennettava tietokoneelle python.org sivulta.
+Komentorivillä kansiossa minne koodi on laitettu annetaan käynnistyskomento:
+python app.py
 
 
 ## Käyttö
